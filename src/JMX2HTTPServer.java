@@ -1,4 +1,4 @@
-package com.mydeco.jmx;
+package org.apache.jmx.services;
 
 import com.sun.net.httpserver.*;
 
